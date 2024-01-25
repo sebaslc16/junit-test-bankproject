@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular, Springboot, Java, JavaScript....**
 
-- 📫 How to reach me **sebaslc1699@hotmail.com**
+- 📫 How to reach me **sebaslc1699@hotmail.com** or **sebaslc199916@hotmail.com**
 
 - 📄 Know about my experiences [https://read.cv/sebaslc16](https://read.cv/sebaslc16)
 
